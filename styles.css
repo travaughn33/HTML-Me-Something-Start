@@ -1,2 +1,22 @@
 /* Write your CSS here! */
 
+.funParagraph {
+    color: green;
+    font-size: 16px;
+}
+
+#mainHeading {
+
+    color: red;
+    font-size: 24px;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+p {
+    font-size: 16px;
+    color: green;
+}
